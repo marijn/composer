@@ -1,5 +1,7 @@
-Packagist documentation
-=======================
+---
+layout: default
+title: Getting started
+---
 
 1. [Installation][1]
 2. [Usage][2]
